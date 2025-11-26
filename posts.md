@@ -1,7 +1,7 @@
 ---
-title: Séminaires
+title: Présentations
 layout: posts
-permalink: /posts/
+permalink: /presentations/
 show_excerpts: True
 entries_layout: list
 ---

@@ -1,5 +1,5 @@
 ---
 layout: home
-list_title: Séminaires
-title: ''
+list_title: Contributions
+title: 'Séminaires'
 ---

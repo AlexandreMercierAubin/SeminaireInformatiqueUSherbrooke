@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: Posts
+- title: Présentations
   url: /posts/
-- title: Categories
+- title: Catégories
   url: /categories/
-- title: Tags
+- title: Étiquettes
   url: /tags/
-- title: Search
+- title: Chercher
   url: /search/
